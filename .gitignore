@@ -1,0 +1,10 @@
+# будет игнорироваться каталог tmp 
+tmp/
+
+*old
+
+*backup
+
+Thumbs.db 
+
+*DS_Store
